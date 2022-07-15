@@ -2,7 +2,7 @@
   "main": {
     "name": "Jiayu/Jerry Liu",
     "occupation": "(Your Occupation Here)",
-    "description": "I am passionate about programming and problem solving, seeking out a Software Engineering job/internship at the moment",
+    "description": "I am passionate about programming and problem solving, seeking out for a Software Engineering job/internship at the moment",
     "image": "profilepic.jpg",
     "bio": "I recently graduated from Boise State University with Bachelors degree in Computer Science, at the start of fall 2022, I will be a graduate student in masters of Computer Engineering in New York University, I am passionate about programming and new technologies, I always like to think and solve problems, and try to think of ways of automating different things in life to make life easier.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -95,10 +95,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "Cinema Manager",
+        "category": "Created the project based on CS221 project bank system",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://github.com/jLiucoder/CinemaManager"
       },
       {
         "title": "Fury Fighting Gear",
