@@ -2,11 +2,11 @@
   "main": {
     "name": "Jiayu/Jerry Liu",
     "occupation": "(Your Occupation Here)",
-    "description": "I am passionate about programming and problem solving, seeking out for a Software Engineering job/internship at the moment",
+    "description": "I am passionate about programming and problem solving, seeking for a Software Engineering Full time position at the moment",
     "image": "profilepic.jpg",
-    "bio": "I recently graduated from Boise State University with Bachelors degree in Computer Science, at the start of fall 2022, I will be a graduate student in masters of Computer Engineering in New York University, I am passionate about programming and new technologies, I always like to think and solve problems, and try to think of ways of automating different things in life to make life easier.",
+    "bio": "I graduated from Boise State University with Bachelors degree in Computer Science in 2022, and now I am a graduate student in masters of Computer Engineering in New York University, I am passionate about programming and new technologies, I like thinking and solving problems, and try to think of ways of automating different things in life to make life easier.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "jl13683@nyu.edu",
+    "email": "jl13683(AT)nyu(DOT)edu",
     "phone": "208-284-1727",
     "address": {
       "street": "(Your Street)",
@@ -15,9 +15,8 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://github.com/jLiucoder/ResumeJiayuLiu/blob/main/ResumeJiayuLiu.pdf",
+    "resumedownload": "https://github.com/jLiucoder/ResumeJiayuLiu",
     "social": [
-      
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/jiayu-jerry-liu-023902204/",
@@ -41,28 +40,36 @@
       {
         "school": "New York University",
         "degree": "Masters in Computer Engineering",
-        "graduated": "Present",
-        "description": "Machine Learning, Computer Architecture"
+        "graduated": "May 2024",
+        "grades": "3.7/4.0",
+        "description": "Principle of Database Systems, Machine Learning, Computer Architecture, Internet Architecture and Protocol"
       },
       {
         "school": "Boise State University",
         "degree": "Bachelors in Computer Science",
         "graduated": "May 2022",
+        "grades": "3.7/4.0",
         "description": "Data Structures, Programming Languages, Operating Systems, Linear Algebra, Discrete Mathematics"
       }
     ],
     "work": [
       {
+        "company": "Ra Labs",
+        "title": "Software Engineering Intern",
+        "years": "May 2023 - Aug. 2023",
+        "description": "Worked on the frontend, backend and the blockchain part of the Data trading platform MVP."
+      },
+      {
         "company": "Institute for Pervasive Cybersecurity (Boise State University)",
         "title": "Cybersecurity Analyst Intern",
         "years": "Oct. 2021 - May 2022",
-        "description": "Looking for data breaching for the local companies in Treasure Valley Idaho on a daily basis, have various projects assigned within the organization."
+        "description": "Looked for data breaches for the local companies in Treasure Valley Idaho on a daily basis."
       },
       {
         "company": "Informatics Skunkworks (Boise State University)",
         "title": "Undergraduate Research Technician",
         "years": "Jan. 2021 - Jan. 2022",
-        "description": "Use machine learning techniques to try to solve and automate the process of identifying the patterns of quantum dots of different materials in the pictures taken by the quantum microscope."
+        "description": "Used machine learning techniques to try to solve and automate the process of identifying the patterns of quantum dots of different materials in the pictures taken by the quantum microscope."
       }
     ],
     "skills": [
@@ -71,58 +78,44 @@
         "level": "70%"
       },
       {
-        "name":"Javascript",
-        "level":"60%"
-      },
-      {
-        "name": "React.js",
-        "level": "55%"
-      },
-      {
-        "name": "CSS",
+        "name": "SpringBoot",
         "level": "60%"
       },
       {
-        "name": "HTML5",
+        "name": "JavaScript/TypeScript",
+        "level": "55%"
+      },
+      {
+        "name": "Node.js / Nest.js",
+        "level": "55%"
+      },
+      {
+        "name": "React.js",
         "level": "60%"
       },
       {
         "name": "MySQL",
         "level": "65%"
+      },
+      {
+        "name": "Docker",
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Cinema Manager",
-        "category": "Created the project based on CS221 project bank system",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://github.com/jLiucoder/CinemaManager"
+        "title": "Amusement Park E-Ticketing System",
+        "category": "Created the project in Principles of Database Systems class",
+        "image": "placeholder.jpeg",
+        "url": "https://github.com/jLiucoder/amusementpark"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "OneClique",
+        "category": "multiuser chatroom",
+        "image": "placeholder.jpeg",
+        "url": "https://github.com/jLiucoder/oneRoomChat-remake"
       }
     ]
   },
